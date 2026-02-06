@@ -1,18 +1,12 @@
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ywZhaIZ7)
-# Project 2 Report – Data Hunters
+# Project 2 Report
 
 ## Overview
 This repository contains the final report and implementation for CS 515 – Social Media Data Science Pipelines (Fall 2025).
 Building upon the continuous Reddit and 4chan data-collection system from Project 1, this phase focuses on measuring sentiment, toxicity, and posting activity across both platforms — particularly on 4chan’s /pol/ board.
 The project integrates VADER for sentiment scoring and Google Perspective API for toxicity computation.
 All required figures, including the /pol/ activity plots for Nov 1–14 (threads/day and posts/hour), were generated and verified for reproducibility on the Binghamton VM
-
----
-
-## Team Members
-- Shubhendu Jadhav
-- Avanti Kopulwar
 
 ---
 
