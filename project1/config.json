@@ -1,0 +1,48 @@
+{
+  "database": {
+    "host": "localhost",
+    "database": "social_media",
+    "user": "sjadhav",
+    "password": "1234"
+  },
+  "reddit_credentials": {
+    "client_id": "YVm4p1-5X5X8gxupWYJzQQ",
+    "client_secret": "oTF59-sn3Eq0DaD0LFNyxsXWSTcuPg",
+    "user_agent": "social_media_project"
+  },
+  "subreddits": [
+    "stocks",
+    "wallstreetbets",
+    "investing",
+    "financialindependence",
+    "pennystocks",
+    "options",
+    "robinhood",
+    "ValueInvesting",
+    "StockMarket",
+    "Daytrading",
+    "AlgoTrading",
+    "SecurityAnalysis",
+    "DividendGrowth",
+    "Cryptocurrency",
+    "Trading",
+    "Finance",
+    "Economics",
+    "CryptoMarkets",
+    "CryptoCurrencyTrading",
+    "SPACs",
+    "ETF",
+    "Stock_Picks",
+    "Forex",
+    "growthinvesting",
+    "ValueStocks",
+    "CanadianInvestor",
+    "financialplanning",
+    "WealthManagement",
+    "superstonk",
+    "investing_discussion",
+    "wallstreetbetsOGs"
+  ],
+  "fetch_limit": 100,
+  "sleep_time": 2
+}
